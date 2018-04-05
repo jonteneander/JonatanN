@@ -10,6 +10,12 @@ SELECT * FROM listmoviesbygenre;
 
 SELECT * FROM listrentedmovies;
 
+-- Fråga 4: Vilka filmer som har gått över tiden, dvs filmer som inte har blivit återlämnade trots att de borde vara det, tillsammans med namnet på kunden som har hyrt den.
+
+SELECT * FROM notreturnedmovies;
+
+
+
 
 
 
