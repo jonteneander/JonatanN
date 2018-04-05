@@ -2,3 +2,10 @@
 
 SELECT * FROM listallmovies;
 
+-- Fråga 2: Vilka filmer som finns i en viss genre.
+
+SELECT * FROM listmoviesbygenre;
+
+
+
+
